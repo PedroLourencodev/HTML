@@ -39,7 +39,7 @@ section h2 {
     margin-bottom: 16;
 }
 .articles article a {
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     color: black;
     padding: 8px;
     display inline-block;
@@ -62,14 +62,30 @@ section h2 {
 }
 
 #sports {
-    background-color: rgb(54, 231, 125);
+    background-color: rgb(233, 12, 12);
 }
 #economy {
-    background-color: rgb(230, 230, 243);
+    background-color: rgb(241, 182, 182);
 }
 #technology {
-    background-color: rgb(128, 123, 123);
+    background-color: rgb(68, 68, 68);
 }
 #enterteimant {
-    background-color: rgb(163, 255, 212);
+    background-color: rgb(137, 151, 147);
+}
+
+#economy a {
+    background-color: rgb(241, 182, 182);
+}
+
+#technology a {
+    background-color:brown;
+}
+
+#sports a {
+    background-color: rgb(72, 226, 0);
+}
+
+#enterteimant a {
+    background-color:rgb(1, 73, 70);
 }
